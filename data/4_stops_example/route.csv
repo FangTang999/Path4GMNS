@@ -1,0 +1,3 @@
+agent_id,agent_type,directed_route_id,route_id_short_name,o_zone_id,d_zone_id,travel_time,distance,node_sequence,time_sequence,geometry
+1,transit,R1.0,route 1,1,4,1,50,1;10001;10002;10003;10004;4,,
+2,transit,R2.0,route 2,2,3,0.35,10,2;10005;10006;3,,
